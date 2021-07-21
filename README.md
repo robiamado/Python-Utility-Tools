@@ -13,7 +13,7 @@ source install:
 pip install:
   - from dist folder: pip install put_main-1.0-py3-none-any.whl and add _from put_main import *_ in .py source file.
   
-## Constatns
+## Constants
 
 - **SI_phy_dims**: SI base units are introduced in a tuple as string type. Moles are represented as _Mol_ and not _mol_ to ease strings handling. https://en.wikipedia.org/wiki/SI_base_unit
 - **letters**: Lower and upper latin alphabet case letters in a tuple as string type.
