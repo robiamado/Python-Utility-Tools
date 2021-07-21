@@ -1,6 +1,14 @@
 # Python-Utility-Tools
 A set of utility classes and functions in Python.
 
+## INSTALLATION
+
+source install:
+  - copy plc_main.py in your root folder and import plc_main.py
+
+pip install:
+  - from dist folder: pip install put_main-1.0-py3-none-any.whl
+  - 
 ## CONSTANTS
 
 - **SI_phy_dims**: SI base units are introduced in a tuple as string type. Moles are represented as _Mol_ and not _mol_ to ease strings handling. https://en.wikipedia.org/wiki/SI_base_unit
