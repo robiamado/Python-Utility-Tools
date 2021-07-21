@@ -76,4 +76,6 @@ Iterators repeat a certain task multiple times.
               arguments. It will try to repeat that function on loop 'fps' times each second.
 - **run**: Run a multivariable function at fixed fps on same length discrete ranges.
 
+## CONTACTS
+
 Please report any bug at robiamado@gmail.com
