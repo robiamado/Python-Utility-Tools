@@ -4,7 +4,7 @@ A set of utility classes and functions in Python.
 ## INSTALLATION
 
 source install:
-  - copy put_main.py in your root folder and import plc_main.py
+  - copy put_main.py in your root folder and add _import put_main_ in .py source file
 
 pip install:
   - from dist folder: pip install put_main-1.0-py3-none-any.whl
