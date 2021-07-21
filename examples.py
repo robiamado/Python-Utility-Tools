@@ -5,7 +5,7 @@
 # CLOCKS
 
 # 30fps clock 10Hz flip flop
-from plc_main import *
+from plc_main import * # download python logical components here: https://github.com/robiamado/Logical-Components
 ff = JKNANDff()
 c1 = clock(30)
 def check_update_flip_flop():
